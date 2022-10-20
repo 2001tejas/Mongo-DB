@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "634961e2a171df13cbd33003"
+  },
+  "Name": "Jagjit",
+  "City": "Anand"
+},{
+  "_id": {
+    "$oid": "634963b5a171df13cbd33004"
+  },
+  "Name": "divyang",
+  "City": "Ahemdabad"
+},{
+  "_id": {
+    "$oid": "634963b5a171df13cbd33005"
+  },
+  "Name": "Dipen patel",
+  "City": "Surat"
+},{
+  "_id": {
+    "$oid": "634963b5a171df13cbd33006"
+  },
+  "Name": "Tejas",
+  "City": "Vadodara",
+  "Salary": 100000
+},{
+  "_id": {
+    "$oid": "63496abd9418c38c229471fb"
+  },
+  "Name": "Jaishree",
+  "City": "Nadiad"
+}]
